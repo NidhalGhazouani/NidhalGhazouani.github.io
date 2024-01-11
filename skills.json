@@ -119,9 +119,5 @@
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
     }    
-
-    {
-        "name": "Gitlab",
-        "icon": "https://icons8.com/icon/34886/gitlab"
-    }    
+   
 ]
