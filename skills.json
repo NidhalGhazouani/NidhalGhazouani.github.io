@@ -1,11 +1,11 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Ansibel",
+        "icon": "https://img.icons8.com/fluency/48/000000/ansible.png"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "Docker",
+        "icon": "https://img.icons8.com/fluency/48/000000/docker.png"
     },
     {
         "name": "NodeJS",
@@ -118,5 +118,10 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }    
+
+    {
+        "name": "Gitlab",
+        "icon": "https://icons8.com/icon/34886/gitlab"
     }    
 ]
