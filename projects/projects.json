@@ -82,7 +82,7 @@
   {
     "name": "Analysis of the COVID-19 progression curve",
     "desc": "Analysis of the COVID-19 progression curve in three countries in 2021.",
-    "image": "covid",
+    "image": "flipkartphp",
     "category": "lamp",
     "links": {
       "view": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git",
