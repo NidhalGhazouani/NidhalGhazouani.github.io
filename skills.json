@@ -80,12 +80,16 @@
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
-    },
-    {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "SQL server",
+        "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
     {
         "name": "PostgreSQL",
@@ -106,17 +110,7 @@
     {
         "name": "Hadoop",
         "icon": "https://img.icons8.com/color/48/hadoop-distributed-file-system.png"
-    },
-    {
-        "name": "Artificial Intelligence",
-        "icon": "https://img.icons8.com/stickers/100/artificial-intelligence.png"
-    },
-    {
-        "name": "SQL server",
-        "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"
-    } 
+    }
+
+
 ]
