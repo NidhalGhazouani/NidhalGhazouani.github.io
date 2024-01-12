@@ -60,13 +60,13 @@
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "Automation Platform",
+    "desc": "Implementation of an automation platform based on Redhat",
+    "image": "Architecture Automation",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://github.com/NidhalGhazouani/Automation-platform.git",
+      "code": "https://github.com/NidhalGhazouani/Automation-platform.git"
     }
   },
   {
