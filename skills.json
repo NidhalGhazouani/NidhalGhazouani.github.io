@@ -104,8 +104,11 @@
         "icon": "https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Linux-logos-and-brands-those-icons-flat-those-icons.png"
     }, 
     {
-        "name": "Linux",
-        "icon": "https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Linux-logos-and-brands-those-icons-flat-those-icons.png"
+        "name": "Hadoop",
+        "icon": "https://img.icons8.com/color/48/hadoop-distributed-file-system.png"
+    },
+    {
+        "name": "Hadoop",
+        "icon": "https://img.icons8.com/stickers/100/artificial-intelligence.png"
     } 
-   
 ]
