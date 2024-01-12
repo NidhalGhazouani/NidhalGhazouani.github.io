@@ -1,5 +1,9 @@
 [
     {
+        "name": "Pulumi",
+        "icon": "https://avatars.githubusercontent.com/u/21992475?s=48"
+    },
+    {
         "name": "Ansible",
         "icon": "https://img.icons8.com/fluency/48/000000/ansible.png"
     },
@@ -8,8 +12,36 @@
         "icon": "https://img.icons8.com/fluency/48/000000/docker.png"
     },
     {
-        "name": "Pulumi",
-        "icon": "https://avatars.githubusercontent.com/u/21992475?s=48"
+        "name": "Azure",
+        "icon": "https://img.icons8.com/fluency/48/azure-1.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "Netlify",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "DigitalOcean",
+        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
         "name": "Bootstrap",
@@ -60,45 +92,17 @@
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
     {
-        "name": "Azure",
-        "icon": "https://img.icons8.com/fluency/48/azure-1.png"
-    },
-    {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-    },
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
-    },
-    {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
     },    
     {
         "name": "Linux",
         "icon": "https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Linux-logos-and-brands-those-icons-flat-those-icons.png"
-    }, 
+    },
+    {
+        "name": "Windows Server",
+        "icon": "https://img.icons8.com/color/48/windows-10.png"
+    },  
     {
         "name": "Hadoop",
         "icon": "https://img.icons8.com/color/48/hadoop-distributed-file-system.png"
@@ -107,10 +111,6 @@
         "name": "Artificial Intelligence",
         "icon": "https://img.icons8.com/stickers/100/artificial-intelligence.png"
     },
-    {
-        "name": "Windows Server",
-        "icon": "https://img.icons8.com/color/48/windows-10.png"
-    }, 
     {
         "name": "SQL server",
         "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
