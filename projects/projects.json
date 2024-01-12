@@ -1,5 +1,5 @@
 [
-  /*{
+  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
@@ -48,7 +48,7 @@
       "view": "https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator",
       "code": "https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator"
     }
-  },*/
+  },
   {
     "name": "Zimbra Platform",
     "desc": "Installation and Configuration of the Zimbra platform.",
