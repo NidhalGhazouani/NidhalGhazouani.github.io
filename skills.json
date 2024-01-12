@@ -50,7 +50,7 @@
     {
         "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    }/*,
+    },
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
@@ -122,5 +122,5 @@
     {
         "name": "SQL server",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"
-    }  */
+    } 
 ]
