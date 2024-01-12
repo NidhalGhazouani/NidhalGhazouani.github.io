@@ -114,5 +114,13 @@
     {
         "name": "Windows Server",
         "icon": "https://img.icons8.com/color/48/windows-10.png"
-    } 
+    }, 
+    {
+        "name": "SQL server",
+        "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
+    },
+    {
+        "name": "SQL server",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"
+    }  
 ]
