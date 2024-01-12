@@ -2,8 +2,8 @@
     {
         "name": "Ansible",
         "icon": "https://img.icons8.com/fluency/48/000000/ansible.png"
-    }
-    /* {
+    },
+    {
         "name": "Docker",
         "icon": "https://img.icons8.com/fluency/48/000000/docker.png"
     },
@@ -122,5 +122,5 @@
     {
         "name": "SQL server",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"
-    } */
+    } 
 ]
