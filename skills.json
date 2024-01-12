@@ -108,7 +108,11 @@
         "icon": "https://img.icons8.com/color/48/hadoop-distributed-file-system.png"
     },
     {
-        "name": "Hadoop",
+        "name": "Artificial Intelligence",
         "icon": "https://img.icons8.com/stickers/100/artificial-intelligence.png"
+    },
+    {
+        "name": "Windows Server",
+        "icon": "https://img.icons8.com/color/48/windows-10.png"
     } 
 ]
