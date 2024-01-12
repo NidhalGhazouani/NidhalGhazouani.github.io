@@ -78,17 +78,17 @@
       "view": "https://github.com/NidhalGhazouani/Network-access-control-NAC-.git",
       "code": "https://github.com/NidhalGhazouani/Network-access-control-NAC-.git"
     }
-  }/*,
+  },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
+    "name": "Analysis of the COVID-19 progression curve",
+    "desc": "Analysis of the COVID-19 progression curve in three countries in 2021.",
+    "image": "covid",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git",
+      "code": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git"
     }
-  },
+  }/*,
   {
     "name": "JavaScript Projects Website",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
