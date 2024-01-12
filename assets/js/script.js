@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Nidhal Ghazouani";
-            $("#favicon").attr("href", "assets/images/image-nid.png");
+            $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
             document.title = "Come Back To Portfolio";
