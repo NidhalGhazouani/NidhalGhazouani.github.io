@@ -16,6 +16,11 @@
         "icon": "https://avatars.githubusercontent.com/u/21992475?s=200&v=4"
     },
     {
+        "name": "Pulumi3",
+        "icon": "https://avatars.githubusercontent.com/u/21992475?s=48"  // Remplacez 48 par la taille souhaitée
+    }
+    
+    {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
