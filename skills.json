@@ -16,10 +16,6 @@
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
-    },
-    {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
@@ -120,7 +116,7 @@
         "icon": "https://img.icons8.com/color/48/microsoft-sql-server.png"
     },
     {
-        "name": "SQL server",
+        "name": "MySQL",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"
     } 
 ]
