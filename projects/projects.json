@@ -78,7 +78,7 @@
       "view": "https://github.com/NidhalGhazouani/Network-access-control-NAC-.git",
       "code": "https://github.com/NidhalGhazouani/Network-access-control-NAC-.git"
     }
-  },
+  }/*,
   {
     "name": "Flipkart PHP",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
@@ -338,5 +338,5 @@
       "view": "#",
       "code": "#"
     }
-  }
+  }*/
 ]
