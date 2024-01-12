@@ -65,6 +65,10 @@
     },
     {
         "name": "AWS",
+        "icon": "https://img.icons8.com/fluency/48/azure-1.png"
+    },
+    {
+        "name": "AWS",
         "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
     },
     {
