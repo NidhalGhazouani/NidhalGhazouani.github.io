@@ -88,7 +88,7 @@
       "view": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git",
       "code": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git"
     }
-  }/*,
+  },
   {
     "name": "JavaScript Projects Website",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
@@ -338,5 +338,5 @@
       "view": "#",
       "code": "#"
     }
-  }*/
+  }
 ]
