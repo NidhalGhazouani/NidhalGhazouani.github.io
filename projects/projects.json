@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Dynamic Process Scheduler Simulator",
+    "desc": "The Dynamic Process Scheduler Simulator is a project that simulates a process scheduler",
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator",
+      "code": "https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator"
     }
   },
   {
