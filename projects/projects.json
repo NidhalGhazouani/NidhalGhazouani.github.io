@@ -1,5 +1,5 @@
 [
-  {
+  /*{
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
@@ -48,7 +48,7 @@
       "view": "https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator",
       "code": "https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator"
     }
-  },
+  },*/
   {
     "name": "Zimbra Platform",
     "desc": "Installation and Configuration of the Zimbra platform.",
@@ -238,7 +238,7 @@
       "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
       "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
     }
-  }/*,
+  },
   {
     "name": "PHP PBL Portal",
     "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
@@ -338,5 +338,5 @@
       "view": "#",
       "code": "#"
     }
-  }*/
+  }
 ]
