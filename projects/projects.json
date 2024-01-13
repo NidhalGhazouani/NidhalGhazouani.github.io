@@ -309,10 +309,8 @@
       "code": "#"
     }
   },
-  "MultiLineComments": {
-  "Comments": [
-    {
-    "//comment": "ADN Temples: It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+  /*{
+    "//comment": "Indian Temples: It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "name": "ADN Temples",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "templeweb",
@@ -321,7 +319,5 @@
       "view": "#",
       "code": "#"
     }
-  }
-  ]
-  }
+  }*/
 ]
