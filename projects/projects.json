@@ -3,7 +3,7 @@
     "name": "Dynamic Process Scheduler Simulator",
     "desc": "The Dynamic Process Scheduler Simulator is a project that simulates a process scheduler.",
     "image": "Priority",
-    "category": "mern",
+    "category": "Academic",
     "links": {
       "view": "https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator",
       "code": "https://github.com/NidhalGhazouani/Dynamic-Process-Scheduler-Simulator"
@@ -13,7 +13,7 @@
     "name": "Zimbra Platform",
     "desc": "Installation and Configuration of the Zimbra platform.",
     "image": "zimbra",
-    "category": "mern",
+    "category": "Academic",
     "links": {
       "view": "https://github.com/NidhalGhazouani/Zimbra-platform.git",
       "code": "https://github.com/NidhalGhazouani/Zimbra-platform.git"
@@ -23,7 +23,7 @@
     "name": "Automation Platform",
     "desc": "Implementation of an automation platform based on Redhat.",
     "image": "Architecture Automation",
-    "category": "mern",
+    "category": "Work",
     "links": {
       "view": "https://github.com/NidhalGhazouani/Automation-platform.git",
       "code": "https://github.com/NidhalGhazouani/Automation-platform.git"
@@ -33,7 +33,7 @@
     "name": "Network access control",
     "desc": "Comparative study of NAC information systems security management solutions (open-source and paid).",
     "image": "pfsense",
-    "category": "mern",
+    "category": "Work",
     "links": {
       "view": "https://github.com/NidhalGhazouani/Network-access-control-NAC-.git",
       "code": "https://github.com/NidhalGhazouani/Network-access-control-NAC-.git"
@@ -43,7 +43,7 @@
     "name": "Analysis of the COVID-19 progression curve",
     "desc": "Analysis of the COVID-19 progression curve in three countries in 2021.",
     "image": "covid",
-    "category": "lamp",
+    "category": "Academic",
     "links": {
       "view": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git",
       "code": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git"
