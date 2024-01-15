@@ -48,5 +48,15 @@
       "view": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git",
       "code": "https://github.com/NidhalGhazouani/covid19-progression-analysis-3countries.git"
     }
+  },
+  {
+    "name": "Conception and Development of a Pets'n Purse Web Application",
+    "desc": "Conception and Development of a Pets'n Purse Web Application.",
+    "image": "test3",
+    "category": "Academic",
+    "links": {
+      "view": "https://github.com/NidhalGhazouani/Pets-n-purse.git",
+      "code": "https://github.com/NidhalGhazouani/Pets-n-purse.git"
+    }
   }
 ]
