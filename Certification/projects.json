@@ -30,14 +30,14 @@
     }
   },
   {
-    "name": "Automation Platform",
-    "desc": "Implementation of an automation platform based on Redhat.",
+    "name": "AZ-900",
+    "desc": "AZ-900",
     "image": "Architecture Automation",
     "category": "Work",
-    "links": {
-      "view": "https://github.com/NidhalGhazouani/Automation-platform.git",
+    "links": { 
+      "view": "https://github.com/NidhalGhazouani/Rapport-affstage-certif/blob/main/Certif/Azure%20Fundamentals.pdf",
       "code": "https://github.com/NidhalGhazouani/Automation-platform.git"
-    }
+    } 
   },
   {
     "name": "Network access control",
