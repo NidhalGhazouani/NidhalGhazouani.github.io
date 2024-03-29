@@ -10,6 +10,16 @@
     }
   },
   {
+    "name": "Hangman-game-BST",
+    "desc": "Hangman Game using the Binary Search Tree.",
+    "image": "Hangman",
+    "category": "Academic",
+    "links": {
+      "view": "https://github.com/NidhalGhazouani/Hangman-game-BST-",
+      "code": "https://github.com/NidhalGhazouani/Hangman-game-BST-"
+    }
+  },
+  {
     "name": "Zimbra Platform",
     "desc": "Installation and Configuration of the Zimbra platform.",
     "image": "zimbra",
