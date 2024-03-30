@@ -47,7 +47,7 @@ function showCertifications(certifications) {
         CertificationsHTML += `
         <div class="grid-item ${Certification.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-      <img draggable="false" src="/assets/images/Projects/${Certification.image}.png" alt="Certification" />
+      <img draggable="false" src="/assets/images/Certifications/${Certification.image}.png" alt="Certification" />
       <div class="content">
         <div class="tag">
         <h3>${Certification.name}</h3>
