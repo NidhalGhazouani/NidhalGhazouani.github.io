@@ -18,7 +18,7 @@
   {
     "title": "Cloud Essentials",
     "issuer": "IBM",
-    "date": "April 2024",
+    "date": "August 2021",
     "image": "image3",
     "category": "cloud",
     "link": "https://www.credly.com/badges/418865c2-24ce-47f6-b599-9926ccf96c45/public_url"
@@ -34,9 +34,41 @@
   {
     "title": "Enterprise Design Thinking Practitioner",
     "issuer": "IBM",
-    "date": "April 2024",
+    "date": "March 2022",
     "image": "Badges_v8-07_Practitioner",
     "category": "others",
     "link": "https://www.credly.com/badges/aeaea31a-92f8-4aa8-98fa-8d84cca6b184/public_url"
+  },
+  {
+    "title": "Data Science & Analytics Intro",
+    "issuer": "IBM",
+    "date": "March  2021",
+    "image": "IDN_Emerging_Tech_-_Data_Sci_and_Analytics",
+    "category": "others",
+    "link": "https://www.credly.com/badges/8d5a6c56-d62f-498b-81e2-8f2f61854a81/public_url"
+  },
+  {
+    "title": "Data Science Tools",
+    "issuer": "IBM",
+    "date": "June  2021",
+    "image": "blob",
+    "category": "others",
+    "link": "https://www.credly.com/badges/ebc2e577-fad6-4f87-803e-f17a9259411c/public_url"
+  },
+  {
+    "title": "Python for Data Science",
+    "issuer": "IBM",
+    "date": "June  2021",
+    "image": "data",
+    "category": "others",
+    "link": "https://www.credly.com/badges/e31c93eb-cee5-4f86-86ed-bb3542c39149/public_url"
+  },
+  {
+    "title": "Data Visualization Using Python",
+    "issuer": "IBM",
+    "date": "June  2021",
+    "image": "data2",
+    "category": "others",
+    "link": "https://www.credly.com/badges/102e9624-0551-474e-abcf-2d599ab83c0e/public_url"
   }
 ]
