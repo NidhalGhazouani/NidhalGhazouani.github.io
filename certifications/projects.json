@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "desc": "Microsoft | Issued February 2024",
+      "image": "images1",
+      "category": "Cloud",
+      "links": {
+        "view": "https://www.credly.com/badges/aec7198c-f7af-4c1b-8ff2-d03e6a8060a9/public_url",
+        "code": ""
+      }
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals",
+      "desc": "Microsoft | Issued June 2024",
+      "image": "images",
+      "category": "AI",
+      "links": {
+        "view": "https://www.credly.com/badges/b438897e-d2ac-4729-afcb-804364e161f1/public_url",
+        "code": ""
+      }
+    },
+    {
+      "name": "Microsoft Office Specialist: Excel Associate (Office 2019)",
+      "desc": "Microsoft | Issued June 2024",
+      "image": "images 2",
+      "category": "Productivity",
+      "links": {
+        "view": "https://www.credly.com/badges/4b1e05df-6881-4a53-aab3-ff938bf67f2b/public_url",
+        "code": ""
+      }
+    }
+  ]
