@@ -157,7 +157,7 @@ function showCertifications(certifications) {
     certifications.slice(0, 3).forEach(cert => {
         certHTML += `
         <div class="box tilt">
-            <img draggable="false" src="${cert.image}" alt="${cert.title}" />
+            <img draggable="false" src="/assets/images/certifications/${cert.image}.png"  alt="${cert.title}" />
             <div class="content">
                 <div class="tag">
                     <h3>${cert.title}</h3>
