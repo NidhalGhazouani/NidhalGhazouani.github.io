@@ -24,6 +24,62 @@
     "link": "https://www.credly.com/badges/418865c2-24ce-47f6-b599-9926ccf96c45/public_url"
   },
   {
+    "title": "Kubernetes",
+    "issuer": "KodeKloud",
+    "date": "April  2024",
+    "image": "download",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/17pIOGdftS5ohfLJnETR3mJ5HU7OBLcD1/view?usp=sharing"
+  },
+  {
+    "title": "DevOps Bootcamp",
+    "issuer": "GDSC",
+    "date": "December  2022",
+    "image": "boot",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1GLYJBh9Z2I1eaIAN_0QN3DBk3zg6eLkT/view?usp=sharing"
+  },
+  {
+    "title": "Docker",
+    "issuer": "Udemy",
+    "date": "Aout  2021",
+    "image": "download (1)",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1KUm-uLAQni1mrOmVJ5X5CgiHvwBX1R9P/view?usp=sharing"
+  },
+  {
+    "title": "Docker",
+    "issuer": "KodeKloud",
+    "date": "November  2022",
+    "image": "download (5)",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1spLDQbzofqvKP2iUflpW3rvy4LJG2mPV/view?usp=sharing"
+  },
+  {
+    "title": "Learn Ansible",
+    "issuer": "KodeKloud",
+    "date": "November  2022",
+    "image": "Learn_Ansible",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1DdSwa0Ez7GAK-3YWRkcy54VCuqESjb4V/view?usp=sharing"
+  },
+  {
+    "title": "Linux-Challenge",
+    "issuer": "KodeKloud",
+    "date": "August 2021",
+    "image": "download (6)",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1pZLp3CVm5RpQeUv6yTuGk4DwX-hkaKvX/view?usp=sharing"
+  },
+  {
+    "title": "Cloud_Core",
+    "issuer": "Coursera",
+    "date": "August 2021",
+    "image": "download (4)",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1faEtaYXhpg57uKKIaRzsMUe6RtOLGu2u/view?usp=sharing"
+  },
+  {
     "title": "Microsoft Office Specialist: Excel Associate (Office 2019)",
     "issuer": "Microsoft",
     "date": "April 2024",
@@ -72,46 +128,6 @@
     "link": "https://www.credly.com/badges/102e9624-0551-474e-abcf-2d599ab83c0e/public_url"
   },
   {
-    "title": "Kubernetes",
-    "issuer": "KodeKloud",
-    "date": "April  2024",
-    "image": "download",
-    "category": "cloud",
-    "link": "https://drive.google.com/file/d/17pIOGdftS5ohfLJnETR3mJ5HU7OBLcD1/view?usp=sharing"
-  },
-  {
-    "title": "DevOps Bootcamp",
-    "issuer": "GDSC",
-    "date": "December  2022",
-    "image": "boot",
-    "category": "cloud",
-    "link": "https://drive.google.com/file/d/1GLYJBh9Z2I1eaIAN_0QN3DBk3zg6eLkT/view?usp=sharing"
-  },
-  {
-    "title": "Docker",
-    "issuer": "Udemy",
-    "date": "Aout  2021",
-    "image": "download (1)",
-    "category": "cloud",
-    "link": "https://drive.google.com/file/d/1KUm-uLAQni1mrOmVJ5X5CgiHvwBX1R9P/view?usp=sharing"
-  },
-  {
-    "title": "Docker",
-    "issuer": "KodeKloud",
-    "date": "November  2022",
-    "image": "download (5)",
-    "category": "cloud",
-    "link": "https://drive.google.com/file/d/1spLDQbzofqvKP2iUflpW3rvy4LJG2mPV/view?usp=sharing"
-  },
-  {
-    "title": "Learn Ansible",
-    "issuer": "KodeKloud",
-    "date": "November  2022",
-    "image": "Learn_Ansible",
-    "category": "cloud",
-    "link": "https://drive.google.com/file/d/1DdSwa0Ez7GAK-3YWRkcy54VCuqESjb4V/view?usp=sharing"
-  },
-  {
     "title": "Certif/Digital Marketing Fundamentals",
     "issuer": "SMstudy",
     "date": "March 2022",
@@ -126,22 +142,6 @@
     "image": "download (3)",
     "category": "others",
     "link": "https://drive.google.com/file/d/1rVSdnPw6zyTSNmIIQ1_BEZmJnS-KNNV1/view?usp=sharing"
-  },
-  {
-    "title": "Linux-Challenge",
-    "issuer": "KodeKloud",
-    "date": "August 2021",
-    "image": "download (6)",
-    "category": "cloud",
-    "link": "https://drive.google.com/file/d/1pZLp3CVm5RpQeUv6yTuGk4DwX-hkaKvX/view?usp=sharing"
-  },
-  {
-    "title": "Cloud_Core",
-    "issuer": "Coursera",
-    "date": "August 2021",
-    "image": "download (4)",
-    "category": "cloud",
-    "link": "https://drive.google.com/file/d/1faEtaYXhpg57uKKIaRzsMUe6RtOLGu2u/view?usp=sharing"
   },
   {
     "title": "Certificate of Service ARTBOX",
