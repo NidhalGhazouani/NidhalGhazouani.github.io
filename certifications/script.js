@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Nidhal Ghazouani";
+            document.title = "Certifications | Portfolio Nidhal Ghazouani";
             $("#favicon").attr("href", "/assets/images/image-nid.png");
         }
         else {
