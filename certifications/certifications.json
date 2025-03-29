@@ -3,7 +3,7 @@
     "title": "Microsoft Certified: Azure Fundamentals",
     "issuer": "Microsoft",
     "date": "February 2024",
-    "image": "./assets/images/certifications/images1.png",
+    "image": "/assets/images/certifications/images1.png",
     "category": "cloud",
     "link": "https://www.credly.com/badges/aec7198c-f7af-4c1b-8ff2-d03e6a8060a9/public_url"
   },
@@ -11,7 +11,7 @@
     "title": "Microsoft Certified: Azure AI Fundamentals",
     "issuer": "Microsoft",
     "date": "June 2024",
-    "image": "./assets/images/certifications/images.png",
+    "image": "/assets/images/certifications/images.png",
     "category": "AI",
     "link": "https://www.credly.com/badges/b438897e-d2ac-4729-afcb-804364e161f1/public_url"
   },
@@ -19,7 +19,7 @@
     "title": "Microsoft Office Specialist: Excel Associate (Office 2019)",
     "issuer": "Microsoft",
     "date": "June 2024",
-    "image": "./assets/images/certifications/images 2.png",
+    "image": "/assets/images/certifications/images 2.png",
     "category": "others",
     "link": "https://www.credly.com/badges/4b1e05df-6881-4a53-aab3-ff938bf67f2b/public_url"
   }
