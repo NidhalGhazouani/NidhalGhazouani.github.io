@@ -32,7 +32,7 @@ document.addEventListener('visibilitychange',
 
 // fetch Certifications start
 function getCertifications() {
-    return fetch("certification.json")
+    return fetch("certifications.json")
         .then(response => response.json())
         .then(data => {
             return data
@@ -41,13 +41,13 @@ function getCertifications() {
 
 
 function showCertifications(certifications) {
-    let projectsContainer = document.querySelector(".work .box-container");
-    let projectsHTML = "";
-    projects.forEach(cert => {
+    let certContainer = document.querySelector(".work .box-container");
+    let certHTML = "";
+    certifications.forEach(cert => {
         certHTML += `
         <div class="grid-item ${project.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-      <img draggable="false" src="/assets/images/projects/${cert.image}.png"  alt="${cert.title} />
+      <img draggable="false" src="/assets/images/certifications/${cert.image}.png"  alt="${cert.title} />
       <div class="content">
         <div class="tag">
         <h3>${cert.title}</h3>
