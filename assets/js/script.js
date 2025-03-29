@@ -154,7 +154,7 @@ function showProjects(projects) {
 function showCertifications(certifications) {
     let certContainer = document.querySelector("#certifications .box-container");
     let certHTML = "";
-    certifications.slice(0, 3).forEach(cert => {
+    certifications.slice(0, 10).forEach(cert => {
         certHTML += `
         <div class="box tilt">
             <img draggable="false" src="/assets/images/certifications/${cert.image}.png"  alt="${cert.title}" />
