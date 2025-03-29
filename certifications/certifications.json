@@ -36,7 +36,7 @@
     "issuer": "IBM",
     "date": "March 2022",
     "image": "Badges_v8-07_Practitioner",
-    "category": "others",
+    "category": "AI",
     "link": "https://www.credly.com/badges/aeaea31a-92f8-4aa8-98fa-8d84cca6b184/public_url"
   },
   {
@@ -44,7 +44,7 @@
     "issuer": "IBM",
     "date": "March  2021",
     "image": "IDN_Emerging_Tech_-_Data_Sci_and_Analytics",
-    "category": "others",
+    "category": "AI",
     "link": "https://www.credly.com/badges/8d5a6c56-d62f-498b-81e2-8f2f61854a81/public_url"
   },
   {
@@ -52,7 +52,7 @@
     "issuer": "IBM",
     "date": "June  2021",
     "image": "blob",
-    "category": "others",
+    "category": "AI",
     "link": "https://www.credly.com/badges/ebc2e577-fad6-4f87-803e-f17a9259411c/public_url"
   },
   {
@@ -60,7 +60,7 @@
     "issuer": "IBM",
     "date": "June  2021",
     "image": "data",
-    "category": "others",
+    "category": "AI",
     "link": "https://www.credly.com/badges/e31c93eb-cee5-4f86-86ed-bb3542c39149/public_url"
   },
   {
@@ -68,7 +68,79 @@
     "issuer": "IBM",
     "date": "June  2021",
     "image": "data2",
-    "category": "others",
+    "category": "AI",
     "link": "https://www.credly.com/badges/102e9624-0551-474e-abcf-2d599ab83c0e/public_url"
+  },
+  {
+    "title": "Kubernetes",
+    "issuer": "KodeKloud",
+    "date": "April  2024",
+    "image": "download",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/17pIOGdftS5ohfLJnETR3mJ5HU7OBLcD1/view?usp=sharing"
+  },
+  {
+    "title": "DevOps Bootcamp",
+    "issuer": "GDSC",
+    "date": "December  2022",
+    "image": "boot",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1GLYJBh9Z2I1eaIAN_0QN3DBk3zg6eLkT/view?usp=sharing"
+  },
+  {
+    "title": "Docker",
+    "issuer": "Udemy",
+    "date": "Aout  2021",
+    "image": "download (1)",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1KUm-uLAQni1mrOmVJ5X5CgiHvwBX1R9P/view?usp=sharing"
+  },
+  {
+    "title": "Docker",
+    "issuer": "KodeKloud",
+    "date": "November  2022",
+    "image": "download (5)",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1spLDQbzofqvKP2iUflpW3rvy4LJG2mPV/view?usp=sharing"
+  },
+  {
+    "title": "Learn Ansible",
+    "issuer": "KodeKloud",
+    "date": "November  2022",
+    "image": "Learn_Ansible",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1DdSwa0Ez7GAK-3YWRkcy54VCuqESjb4V/view?usp=sharing"
+  },
+  {
+    "title": "Certif/Digital Marketing Fundamentals",
+    "issuer": "SMstudy",
+    "date": "March 2022",
+    "image": "download (2)",
+    "category": "others",
+    "link": "https://drive.google.com/file/d/1fo-PuNYATpwR0fLiPltmh7CxRNIUA_K8/view?usp=sharing"
+  },
+  {
+    "title": "Create a Website Using Wordpress: Free Hosting & Sub-domain",
+    "issuer": "Coursera",
+    "date": "August 2021",
+    "image": "download (3)",
+    "category": "others",
+    "link": "https://drive.google.com/file/d/1rVSdnPw6zyTSNmIIQ1_BEZmJnS-KNNV1/view?usp=sharing"
+  },
+  {
+    "title": "Linux-Challenge",
+    "issuer": "KodeKloud",
+    "date": "August 2021",
+    "image": "download (6)",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1pZLp3CVm5RpQeUv6yTuGk4DwX-hkaKvX/view?usp=sharing"
+  },
+  {
+    "title": "Cloud_Core",
+    "issuer": "Coursera",
+    "date": "August 2021",
+    "image": "download (4)",
+    "category": "cloud",
+    "link": "https://drive.google.com/file/d/1faEtaYXhpg57uKKIaRzsMUe6RtOLGu2u/view?usp=sharing"
   }
 ]
