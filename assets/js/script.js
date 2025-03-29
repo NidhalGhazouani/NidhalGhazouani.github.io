@@ -80,11 +80,14 @@ var typed = new Typed(".typing-text", {
 // <!-- typed js effect ends -->
 
 async function fetchData(type = "skills") {
-    let response
-    type === "skills" ?
-        response = await fetch("skills.json")
-        :
-        response = await fetch("./projects/projects.json")
+    let response;
+    if (type === "skills") {
+        response = await fetch("skills.json");
+    } else if (type === "projects") {
+        response = await fetch("./projects/projects.json");
+    } else if (type === "certifications") {
+        response = await fetch("./certifications/certifications.json");
+    }
     const data = await response.json();
     return data;
 }
@@ -131,6 +134,34 @@ function showProjects(projects) {
     VanillaTilt.init(document.querySelectorAll(".tilt"), {
         max: 15,
     });
+
+    // Show certifications
+function showCertifications(certifications) {
+    let certContainer = document.querySelector("#certifications .box-container");
+    let certHTML = "";
+    certifications.slice(0, 3).forEach(cert => {
+        certHTML += `
+        <div class="box tilt">
+            <img draggable="false" src="${cert.image}" alt="${cert.title}" />
+            <div class="content">
+                <div class="tag">
+                    <h3>${cert.title}</h3>
+                </div>
+                <div class="desc">
+                    <p>${cert.issuer} | Issued ${cert.date}</p>
+                    <div class="btns">
+                        <a href="${cert.link}" class="btn" target="_blank"><i class="fas fa-eye"></i> View Certificate</a>
+                    </div>
+                </div>
+            </div>
+        </div>`;
+    });
+    certContainer.innerHTML = certHTML;
+
+    VanillaTilt.init(document.querySelectorAll(".tilt"), { max: 15 });
+    const srtop = ScrollReveal({ origin: 'top', distance: '80px', duration: 1000, reset: true });
+    srtop.reveal('.certifications .box', { interval: 200 });
+}
     // <!-- tilt js effect ends -->
 
     /* ===== SCROLL REVEAL ANIMATION ===== */
