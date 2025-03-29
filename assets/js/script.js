@@ -134,8 +134,23 @@ function showProjects(projects) {
     VanillaTilt.init(document.querySelectorAll(".tilt"), {
         max: 15,
     });
+    // <!-- tilt js effect ends -->
 
-    // Show certifications
+    /* ===== SCROLL REVEAL ANIMATION ===== */
+    const srtop = ScrollReveal({
+        origin: 'top',
+        distance: '80px',
+        duration: 1000,
+        reset: true
+    });
+
+    /* SCROLL PROJECTS */
+    srtop.reveal('.work .box', { interval: 200 });
+
+}
+
+
+// Show certifications
 function showCertifications(certifications) {
     let certContainer = document.querySelector("#certifications .box-container");
     let certHTML = "";
@@ -162,65 +177,6 @@ function showCertifications(certifications) {
     const srtop = ScrollReveal({ origin: 'top', distance: '80px', duration: 1000, reset: true });
     srtop.reveal('.certifications .box', { interval: 200 });
 }
-    // <!-- tilt js effect ends -->
-
-    /* ===== SCROLL REVEAL ANIMATION ===== */
-    const srtop = ScrollReveal({
-        origin: 'top',
-        distance: '80px',
-        duration: 1000,
-        reset: true
-    });
-
-    /* SCROLL PROJECTS */
-    srtop.reveal('.work .box', { interval: 200 });
-
-}
-
-
-
-
-function showCertifications(Certifications) {
-    let CertificationsContainer = document.querySelector("#works .box-container");
-    let CertificationHTML = "";
-    Certifications.slice(0, 10).filter(Certification => Certification.category != "android").forEach(Certification => {
-        CertificationHTML += `
-        <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${Certification.image}.png" alt="Certification" />
-      <div class="content">
-        <div class="tag">
-        <h3>${Certification.name}</h3>
-        </div>
-        <div class="desc">
-          <p>${Certification.desc}</p>
-          <div class="btns">
-            <a href="${Certification.links.view}" class="btn" target="_blank"><i class="fas fa-eye"></i> View</a>
-            <a href="${Certification.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>`
-    });
-    CertificationsContainer.innerHTML = CertificationHTML;
-
-    // <!-- tilt js effect starts -->
-    VanillaTilt.init(document.querySelectorAll(".tilt"), {
-        max: 15,
-    });
-    // <!-- tilt js effect ends -->
-
-    /* ===== SCROLL REVEAL ANIMATION ===== */
-    const srtop = ScrollReveal({
-        origin: 'top',
-        distance: '80px',
-        duration: 1000,
-        reset: true
-    });
-
-    /* SCROLL Certifications */
-    srtop.reveal('.works .box', { interval: 200 });
-
-}
 
 
 
@@ -232,6 +188,8 @@ fetchData().then(data => {
 fetchData("projects").then(data => {
     showProjects(data);
 });
+
+fetchData("certifications").then(data => showCertifications(data));
 
 // <!-- tilt js effect starts -->
 VanillaTilt.init(document.querySelectorAll(".tilt"), {
