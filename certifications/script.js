@@ -41,11 +41,11 @@ function getCertifications() {
 
 
 function showCertifications(certifications) {
-    let certContainer = document.querySelector(".work .box-container");
+    let certContainer = document.querySelector(".certifications .box-container");
     let certHTML = "";
     certifications.forEach(cert => {
         certHTML += `
-        <div class="grid-item ${project.category}">
+        <div class="grid-item ${cert.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
       <img draggable="false" src="/assets/images/certifications/${cert.image}.png"  alt="${cert.title} />
       <div class="content">
@@ -79,7 +79,7 @@ function showCertifications(certifications) {
     //     reset: true
     // });
 
-    // /* SCROLL PROJECTS */
+    // /* SCROLL Certifications */
     // srtop.reveal('.work .box', { interval: 200 });
 
     // isotope filter products
@@ -103,7 +103,7 @@ function showCertifications(certifications) {
 getCertifications().then(data => {
     showCertifications(data);
 });
-// fetch projects end
+// fetch Certifications end
 
 
 // Start of Tawk.to Live Chat
