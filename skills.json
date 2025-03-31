@@ -1,5 +1,9 @@
 [
     {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/fluency/48/000000/terraform.png"
+    },
+    {
         "name": "Pulumi",
         "icon": "https://avatars.githubusercontent.com/u/21992475?s=48"
     },
