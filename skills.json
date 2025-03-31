@@ -16,6 +16,10 @@
         "icon": "https://img.icons8.com/fluency/48/000000/docker.png"
     },
     {
+        "name": "GCP",
+        "icon": "https://img.icons8.com/color/48/google-cloud.png"
+    },
+    {
         "name": "Azure",
         "icon": "https://img.icons8.com/fluency/48/azure-1.png"
     },
