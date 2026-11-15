@@ -1,4 +1,14 @@
 [
+ {
+    "name": "AI Agents for Service Request Analysis and Resource Availability.",
+    "desc": "AI Agents for Service Request Analysis and Resource Availability.",
+    "image": "Priority",
+    "category": "Academic",
+    "links": {
+      "view": "https://github.com/NidhalGhazouani/Agents-IA",
+      "code": "https://github.com/NidhalGhazouani/Agents-IA"
+    }
+  },
   {
     "name": "Dynamic Process Scheduler Simulator",
     "desc": "The Dynamic Process Scheduler Simulator is a project that simulates a process scheduler.",
